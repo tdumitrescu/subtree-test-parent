@@ -6,3 +6,6 @@ Steps taken to set up subtree initially:
 
 To push to subtree's separate repo:
 - `git subtree push --prefix=lib/external/subtree-test-child/ subtree-test-child <branch>`
+
+Pulling from subtree's remote:
+- `git subtree pull --prefix=lib/external/subtree-test-child/ subtree-test-child <branch>`
