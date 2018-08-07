@@ -1,1 +1,3 @@
 Here is a file inside a subdirectory.
+
+This line was added in a commit changing parent and subtree simultaneously.
